@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Youth Loan Assistance Portal",
+  "description": "Official portal for loan assistance programme by Ministry of Finance, Government of Pakistan with bilingual support, loan calculator, and secure verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
